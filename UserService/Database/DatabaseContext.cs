@@ -13,7 +13,7 @@ namespace UserService.Database
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"data source=LAPTOP-KUDMLU21\SQLEXPRESS; initial catalog=SimpleMicroservice; persist security info=False; Integrated Security=true;");
+            optionsBuilder.UseSqlServer(@"data source=DSNAME; initial catalog=SimpleMicroservice; persist security info=False; Integrated Security=true;");
 
         }
     }
