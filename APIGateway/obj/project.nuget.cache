@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qi1vFXtU93m5qMUNBlZr1D7XxC39xesPGbYWSq2KvTpoIAbyAN6XLgy1y1l0sHE0i5ZBrk1QIYaAANl/fYZ2GA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SimpleMicroservice\\APIGateway\\APIGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajith\\.nuget\\packages\\fluentvalidation\\8.5.0\\fluentvalidation.8.5.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\3.0.0\\microsoft.aspnetcore.middlewareanalysis.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.0.0\\microsoft.extensions.diagnosticadapter.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\ocelot\\14.0.0\\ocelot.14.0.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
